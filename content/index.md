@@ -1,15 +1,19 @@
 ---
 publish: true
-created: 2026-08-31T05:07:57.181Z
-modified: 2026-08-31T05:09:47.454Z
+title: welcome
+created: 2026-08-10
+modified: 2026-08-11
+tags:
+  - dg
+  - publish
 ---
 
----
+notes
 
-title: Welcome
-publish: true
--------------
+on art / Vajrayana Buddhism / taichi
 
-# Welcome
+![[x-attachments/0E093FA1-2644-4D2F-8A74-3CB6D5B894C9.jpeg|239]]
 
-These are my notes.
+![[x-attachments/043B2766-BE64-4C60-939B-EDC2A53B0A17.jpeg|241]]
+
+![[x-attachments/FA7EB9CF-E964-4E62-85D8-69020C8CC696.jpeg|239]]

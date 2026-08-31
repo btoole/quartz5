@@ -1,9 +1,7 @@
 ---
 publish: true
-created: 2026-08-05T10:36:42
-modified: 2026-08-31T04:32:15.275Z
-tags:
-  - articlenote
+created: 2026-08-31T05:07:57.181Z
+modified: 2026-08-31T05:09:47.454Z
 ---
 
 ---
@@ -14,4 +12,4 @@ publish: true
 
 # Welcome
 
-This is my notes page
+These are my notes.

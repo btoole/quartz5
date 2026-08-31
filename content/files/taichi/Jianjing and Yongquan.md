@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-10
-modified: 2026-08-22T02:34:23.584Z
+modified: 2026-08-31T08:02:39.246Z
 tags:
   - type/note
   - topic/taichi
@@ -11,7 +11,7 @@ Both are important acupuncture points, and in Tai Chi they have a useful **struc
 
 ### Jianjing — 肩井 (GB21)
 
-![[x-attachments/Pasted image 20260810092932.png|221]]![[x-attachments/Pasted image 20260810092953.png|149]]![[x-attachments/Pasted image 20260810093030.png|138]]
+![[x-attachments/Pasted image 20260810092932.png|221]]![[x-attachments/Pasted image 20260810092953.png|149]]![[x-attachments/Pasted image 20260810093030.png|170]]
 
 **[[Jianjing]] (肩井)** literally means **"Shoulder Well."**
 

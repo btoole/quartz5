@@ -4,8 +4,8 @@ title: index
 created: 2026-08-10
 modified: 2026-08-11
 tags:
-  - dg
   - publish
+  - qt
 ---
 
 notes

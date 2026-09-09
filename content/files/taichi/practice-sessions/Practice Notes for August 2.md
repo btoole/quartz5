@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-02
-modified: 2026-09-02T05:29:35.637Z
+modified: 2026-09-09T04:13:01.183Z
 tags:
   - type/note
   - topic/taichi
@@ -34,6 +34,6 @@ Cloud Hands; rotating the hand from the inside
 
 <div class="video-grid">
 
-<video controls src="x-attachments/9565DD6F637BE647625C5A3CD12692B2E5958016.mp4"></video> <video controls src="x-attachments/ICmTPikJGtx7TKoaBOAnmdRQHqd4Os38lpdTFCEW3mE.mp4"></video>
+<video controls src="x-attachments/9565dd6f637be647625c5a3cd12692b2e5958016.mp4"></video> <video controls src="x-attachments/icmtpikjgtx7tkoaboanmdrqhqd4os38lpdtfcew3me.mp4"></video>
 
 </div>

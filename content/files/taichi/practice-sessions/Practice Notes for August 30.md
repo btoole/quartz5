@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-30
-modified: 2026-09-02T05:29:20.123Z
+modified: 2026-09-09T04:34:38.929Z
 tags:
   - type/note
   - topic/taichi
@@ -28,6 +28,6 @@ Relax the knees and shoulders first, then relax the hip joints. Although invisib
 
 <div class="video-grid">
 
-<video controls src="x-attachments/3C1389381FCEE82359553ABEDC0EC2B86F5358FD.mp4"></video> <video controls src="x-attachments/7A75AF2D391E409A407DA15CC05DC8814D7DE450.mp4"></video> <video controls src="x-attachments/48138B679FF1EB4C697114ABA3F7F5CDBF8254C5.mp4"></video> <video controls src="x-attachments/A292F0AA6644CE7FF45BD700C6C7A7845D559A68.mp4"></video> <video controls src="x-attachments/B859B78A73E3D1BC71885E7D8BF75C0CEBF3A6CB.mp4"></video>
+<video controls src="x-attachments/3c1389381fcee82359553abedc0ec2b86f5358fd.mp4"></video> <video controls src="x-attachments/7a75af2d391e409a407da15cc05dc8814d7de450.mp4"></video> <video controls src="x-attachments/48138b679ff1eb4c697114aba3f7f5cdbf8254c5.mp4"></video> <video controls src="x-attachments/a292f0aa6644ce7ff45bd700c6c7a7845d559a68.mp4"></video> <video controls src="x-attachments/b859b78a73e3d1bc71885e7d8bf75c0cebf3a6cb.mp4"></video>
 
 </div>

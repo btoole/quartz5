@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-09
-modified: 2026-09-02T05:29:29.956Z
+modified: 2026-09-09T04:13:46.760Z
 tags:
   - type/note
   - topic/taichi
@@ -33,8 +33,8 @@ Practice Notes, August 9th
 
 <div class="video-grid">
 
-<video controls src="x-attachments/video_626524685999276480-3r5f7gxf.MP4"></video> <video controls src="x-attachments/video_626524685781696911-UqEg6f6a.MP4"></video> <video controls src="x-attachments/video_626524685714325948-3M8uP8oE.MP4"></video> <video controls src="x-attachments/video_626524685379043792-NOrDWerU.MP4"></video> <video controls src="x-attachments/video_626524648636678149-U6ZN2qEr.MP4"></video>
+<video controls src="x-attachments/video_626524685999276480-3r5f7gxf.mp4"></video> <video controls src="x-attachments/video_626524685781696911-uqeg6f6a.mp4"></video> <video controls src="x-attachments/video_626524685714325948-3m8up8oe.mp4"></video> <video controls src="x-attachments/video_626524685379043792-nordweru.mp4"></video> <video controls src="x-attachments/video_626524648636678149-u6zn2qer.mp4"></video>
 
-<video controls src="x-attachments/video_626524648586346945-oVknImMU.MP4"></video> <video controls src="x-attachments/k2v-u1UknBPY35nKsHpU7J2ElnQjC0BBlRRbWGL9heo.MP4"></video>
+<video controls src="x-attachments/video_626524648586346945-ovknimmu.mp4"></video> <video controls src="x-attachments/k2v-u1uknbpy35nkshpu7j2elnqjc0bblrrbwgl9heo.mp4"></video>
 
 </div>

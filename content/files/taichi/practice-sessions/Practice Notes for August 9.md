@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-09
-modified: 2026-09-09T04:13:46.760Z
+modified: 2026-09-09T05:30:19.516Z
 tags:
   - type/note
   - topic/taichi
@@ -31,10 +31,10 @@ Practice Notes, August 9th
 - While supporting your opponent's force with both arms, lower your shoulder blades to push them away.
 - When you want to move your opponent to the left, rotate your hips to the right.
 
-<div class="video-grid">
-
-<video controls src="x-attachments/video_626524685999276480-3r5f7gxf.mp4"></video> <video controls src="x-attachments/video_626524685781696911-uqeg6f6a.mp4"></video> <video controls src="x-attachments/video_626524685714325948-3m8up8oe.mp4"></video> <video controls src="x-attachments/video_626524685379043792-nordweru.mp4"></video> <video controls src="x-attachments/video_626524648636678149-u6zn2qer.mp4"></video>
-
-<video controls src="x-attachments/video_626524648586346945-ovknimmu.mp4"></video> <video controls src="x-attachments/k2v-u1uknbpy35nkshpu7j2elnqjc0bblrrbwgl9heo.mp4"></video>
-
-</div>
+  ![[x-attachments/video_626524685999276480-3r5f7gxf.mp4]]
+  ![[x-attachments/video_626524685781696911-uqeg6f6a.mp4]]
+  ![[x-attachments/video_626524685714325948-3m8up8oe.mp4]]
+  ![[x-attachments/video_626524685379043792-nordweru.mp4]]
+  ![[x-attachments/video_626524648636678149-u6zn2qer.mp4]]
+  ![[x-attachments/video_626524648586346945-ovknimmu.mp4]]
+  ![[x-attachments/k2v-u1uknbpy35nkshpu7j2elnqjc0bblrrbwgl9heo.mp4]]

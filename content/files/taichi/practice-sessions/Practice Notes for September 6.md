@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-09-06
-modified: 2026-09-07T01:18:31.496Z
+modified: 2026-09-09T03:50:13.458Z
 tags:
   - type/note
   - topic/taichi
@@ -33,8 +33,8 @@ Additional
 - Slightly distort the box formed by the opponent's shoulders and hands and push it.
 - Send a Kei towards the large paddle, ball pillow, or altar. You can also aim 10cm in front of the opponent's toes and 10cm behind their heels.
 
-<div class="video-grid">
-
-<video controls src="x-attachments/3D79628A28A771C0B383D6E4CB8EC258B103FF47.mp4"></video> <video controls src="x-attachments/2052D3CC4551E8B4DB12208DAFBB8241389CDD8B.mp4"></video> <video controls src="x-attachments/47389D72149829499967F4B7714BB340E544B03F.mp4"></video> <video controls src="x-attachments/EAAD4E4781FAFAF90550B41ECBAFE5066964D4AB.mp4"></video> <video controls src="x-attachments/03D55EEBE32FE8F9F7A992E5762FD905D4BBBE5B.mp4"></video>
-
-</div>
+![[x-attachments/3D79628A28A771C0B383D6E4CB8EC258B103FF47.MP4]]
+![[x-attachments/2052D3CC4551E8B4DB12208DAFBB8241389CDD8B.MP4]]
+![[x-attachments/47389D72149829499967F4B7714BB340E544B03F.MP4]]
+![[x-attachments/EAAD4E4781FAFAF90550B41ECBAFE5066964D4AB.MP4]]
+![[x-attachments/03D55EEBE32FE8F9F7A992E5762FD905D4BBBE5B.MP4]]

@@ -148,7 +148,7 @@ plugins:
     enabled: true
     options: {}
   - source: "@quartz-community/og-image"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"

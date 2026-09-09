@@ -1,3 +1,17 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+p:has(video) {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+
+  br {
+    display: none;
+  }
+
+  video {
+    width: 100%;
+  }
+}

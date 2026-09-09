@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-09
-modified: 2026-09-09T05:30:19.516Z
+modified: 2026-09-09T10:54:51.498Z
 tags:
   - type/note
   - topic/taichi
@@ -37,4 +37,4 @@ Practice Notes, August 9th
   ![[x-attachments/video_626524685379043792-nordweru.mp4]]
   ![[x-attachments/video_626524648636678149-u6zn2qer.mp4]]
   ![[x-attachments/video_626524648586346945-ovknimmu.mp4]]
-  ![[x-attachments/k2v-u1uknbpy35nkshpu7j2elnqjc0bblrrbwgl9heo.mp4]]
+  ![[x-attachments/video_u1uknbpy35nkshpu7j2elnqjc0bblrrbwgl9heo.mp4]]

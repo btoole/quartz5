@@ -15,3 +15,123 @@ p:has(video) {
     width: 100%;
   }
 }
+
+// Restyle properties panel to look like inline tag pills (matching site A)
+.note-properties {
+  border: none;
+  background: transparent;
+  margin: 0 0 1rem 0;
+  padding: 0;
+}
+
+.note-properties-header {
+  display: none; // hides the "Properties  2" collapsible header
+}
+
+.note-properties-table,
+.note-properties-table tbody,
+.note-properties-row {
+  display: block;
+  border: none;
+  background: none;
+}
+
+.note-properties-row:first-of-type {
+  display: none; // hides the "description" row, since site A doesn't show it
+}
+
+.note-properties-key {
+  display: none; // hides the "tags" label text
+}
+
+.note-properties-value {
+  display: block;
+  padding: 0;
+}
+
+.note-properties-separator {
+  display: none; // hides ", " between tags, since pills provide visual separation
+}
+
+.tag-link {
+  display: inline-block;
+  background-color: #dbeafe;
+  color: #2563eb;
+  border-radius: 999px;
+  padding: 0.15rem 0.6rem;
+  margin: 0 0.35rem 0.35rem 0;
+  font-size: 0.45rem;
+  text-decoration: none;
+}
+
+.tag-link:hover {
+  background-color: #bfdbfe;
+}
+
+// Lighter title weight, closer to site A
+.article-title {
+  font-weight: 400;
+}
+
+// Sidebar background and link colors, matching site A
+.left.sidebar {
+  background-color: #ffffff;
+}
+
+.left.sidebar a {
+  color: #2563eb;
+}
+
+.left.sidebar a:hover {
+  color: #1d4ed8;
+}
+
+.page-title a {
+  color: #2563eb;
+  font-weight: 700;
+}
+
+a.tag-link {
+  background-color: #dbeafe !important;
+  color: #2563eb !important;
+  border: none !important;
+}
+
+a.tag-link:hover {
+  background-color: #bfdbfe !important;
+  color: #1d4ed8 !important;
+}
+
+.folder-button,
+.folder-title {
+  color: #2563eb !important;
+}
+
+.explorer a {
+  color: #2563eb !important;
+}
+
+.explorer a:hover {
+  color: #1d4ed8 !important;
+}
+
+.explorer a,
+.folder-button,
+.folder-title,
+.nav-file-title {
+  color: #2563eb !important;
+}
+
+.explorer a:hover,
+.folder-button:hover,
+.nav-file-title:hover {
+  color: #1d4ed8 !important;
+}
+
+.center {
+  font-size: 0.9rem; // adjust up/down as you like (1rem = default)
+}
+
+.left.sidebar {
+  font-size: 0.50rem;
+}

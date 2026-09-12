@@ -2,6 +2,7 @@
 publish: true
 created: 2026-08-04
 modified: 2026-08-22T02:37:05.202Z
+published: 2026-08-22T02:37:05.202Z
 tags:
   - topic/theory
 ---

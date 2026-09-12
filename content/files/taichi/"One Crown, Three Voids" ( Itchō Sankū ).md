@@ -2,6 +2,7 @@
 publish: true
 created: 2026-08-02
 modified: 2026-08-30T22:51:03.118Z
+published: 2026-08-30T22:51:03.118Z
 tags:
   - type/note
   - topic/taichi

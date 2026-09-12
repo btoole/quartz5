@@ -3,6 +3,7 @@ publish: true
 description: reply to Jackson's post on cubism
 created: 2026-08-07
 modified: 2026-08-22T02:34:15.833Z
+published: 2026-08-22T02:34:15.833Z
 tags:
   - topic/theory
 ---

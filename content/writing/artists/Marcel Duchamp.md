@@ -2,6 +2,7 @@
 publish: true
 created: 2026-08-04
 modified: 2026-08-22T02:35:09.874Z
+published: 2026-08-22T02:35:09.874Z
 tags:
   - topic/artist
   - topic/art

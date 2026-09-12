@@ -2,6 +2,7 @@
 publish: true
 created: 2026-08-02
 modified: 2026-09-09T05:51:26.512Z
+published: 2026-09-09T05:51:26.512Z
 tags:
   - type/note
   - topic/taichi
@@ -30,5 +31,5 @@ Maintain the principle of "One Crown, Three Voids" (_Itchō Sankū_): the _Baihu
 Positioning and use of the left hand
 Cloud Hands; rotating the hand from the inside
 
-![[x-attachments/9565DD6F637BE647625C5A3CD12692B2E5958016.mp4]]
-![[x-attachments/ICmTPikJGtx7TKoaBOAnmdRQHqd4Os38lpdTFCEW3mE.mp4]]
+![[x-attachments/9565dd6f637be647625c5a3cd12692b2e5958016.mp4]]
+![[x-attachments/icmtpikjgtx7tkoaboanmdrqhqd4os38lpdtfcew3me.mp4]]

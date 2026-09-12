@@ -2,6 +2,7 @@
 publish: true
 created: 2026-09-12T10:35:00
 modified: 2026-09-12T01:44:06.050Z
+published: 2026-09-12
 tags:
   - topic/writing/ideas
 ---

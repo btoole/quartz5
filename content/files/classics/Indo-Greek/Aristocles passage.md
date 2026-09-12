@@ -2,7 +2,8 @@
 publish: true
 description: Pyrrho
 created: 2026-08-11
-modified: 2026-09-12T02:26:13.160Z
+modified: 2026-09-12T02:50:32.137Z
+published: 2026-09-12T02:50:32.137Z
 tags:
   - topic/classics
   - topic/classics/greek
@@ -22,6 +23,6 @@ from **Eusebius, _Praeparatio Evangelica_ 14.18.1–4**.
 
 ἀνεπίκριτα — anepikrita ( undecidable / indeterminate ) - anicca ( impermanent )
 
-![[x-attachments/Philosopher_marble_head_Roman_copy_AM_Corfu_Krfm22-removebg-preview.png]]
+![[x-attachments/Philosopher_marble_head_Roman_copy_AM_Corfu_Krfm22-removebg-preview.png|201]]
 
 Pyrrho of Elis, marble head, Roman copy, Archaeological Museum of Corfu

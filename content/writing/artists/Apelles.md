@@ -2,6 +2,7 @@
 publish: true
 created: 2026-08-05T10:36:42
 modified: 2026-09-06T10:01:33.800Z
+published: 2026-09-06T10:01:33.800Z
 tags:
   - articlenote
   - topic/artist

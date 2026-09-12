@@ -3,6 +3,7 @@ publish: true
 description: Spontaneity in Painting
 created: 2026-08-12
 modified: 2026-08-22T02:34:41.642Z
+published: 2026-08-22T02:34:41.642Z
 tags:
   - type/note
   - topic/artists

@@ -40,10 +40,6 @@ p:has(video) {
   display: none; // hides the "description" row, since site A doesn't show it
 }
 
-.note-properties-key {
-  display: none; // hides the "tags" label text
-}
-
 .note-properties-value {
   display: block;
   padding: 0;
@@ -87,13 +83,13 @@ p:has(video) {
 }
 
 .page-title a {
-  color: #2563eb;
+  color: #bbccfa;
   font-weight: 700;
 }
 
 a.tag-link {
   background-color: #dbeafe !important;
-  color: #2563eb !important;
+  color: #bbccfa !important;
   border: none !important;
 }
 
@@ -104,7 +100,7 @@ a.tag-link:hover {
 
 .folder-button,
 .folder-title {
-  color: #2563eb !important;
+  color: #7fa4f5 !important;
 }
 
 .explorer a {
@@ -129,9 +125,9 @@ a.tag-link:hover {
 }
 
 .center {
-  font-size: 0.9rem; // adjust up/down as you like (1rem = default)
+  font-size: 1.0rem; // adjust up/down as you like (1rem = default)
 }
 
 .left.sidebar {
-  font-size: 0.40rem;
+  font-size: 0.15rem;
 }

@@ -25,7 +25,9 @@ p:has(video) {
 }
 
 .note-properties-header {
-  display: none; // hides the "Properties  2" collapsible header
+  font-size: 0.7rem;
+  color: #9ca3af;
+  opacity: 0.6;
 }
 
 .note-properties-table,
@@ -96,8 +98,4 @@ p:has(video) {
 
 .center {
   font-size: 1rem;
-}
-
-.note-properties:not([open]) > :not(summary) {
-  display: block !important;
 }

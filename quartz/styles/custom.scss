@@ -50,19 +50,19 @@ p:has(video) {
 }
 
 .tag-link {
-  display: inline-block;
-  background-color: #dbeafe;
-  color: #2563eb;
-  border-radius: 999px;
-  padding: 0.15rem 0.6rem;
-  margin: 0 0.35rem 0.35rem 0;
-  font-size: 0.85rem;
-  text-decoration: none;
+  display: inline-block !important;
+  background-color: #dbeafe !important;
+  color: #2563eb !important;
+  border-radius: 999px !important;
+  padding: 0.15rem 0.6rem !important;
+  margin: 0 0.35rem 0.35rem 0 !important;
+  font-size: 0.85rem !important;
+  text-decoration: none !important;
 }
 
 .tag-link:hover {
-  background-color: #bfdbfe;
-  color: #1d4ed8;
+  background-color: #bfdbfe !important;
+  color: #1d4ed8 !important;
 }
 
 // Lighter title weight, closer to site A

@@ -1,11 +1,13 @@
 ---
 publish: true
 created: 2026-08-10
-modified: 2026-08-31T08:02:39.246Z
+modified:
 published: 2026-08-31T08:02:39.246Z
 tags:
   - type/note
   - topic/taichi
+dg-publish: true
+qt-publish: true
 ---
 
 Both are important acupuncture points, and in Tai Chi they have a useful **structural/body-awareness interpretation** beyond their traditional medical descriptions.

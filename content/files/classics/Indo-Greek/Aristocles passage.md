@@ -2,13 +2,15 @@
 publish: true
 description: Pyrrho
 created: 2026-08-11
-modified: 2026-09-12T02:50:32.137Z
+modified:
 published: 2026-09-12T02:50:32.137Z
 tags:
   - topic/classics
   - topic/classics/greek
   - topic/classics/Buddhism
   - topic/classics/Indo-Greek
+dg-publish: true
+qt-publish: true
 ---
 
 from **Eusebius, _Praeparatio Evangelica_ 14.18.1–4**.

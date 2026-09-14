@@ -1,10 +1,18 @@
 ---
 publish: true
 created: 2026-09-12T10:35:00
-modified: 2026-09-12T01:44:06.050Z
+modified:
 published: 2026-09-12
 tags:
   - topic/writing/ideas
+classification:
+title:
+related to: []
+source:
+pdf:
+videos:
+dg-publish: true
+qt-publish: true
 ---
 
 Sometimes I hear the complaint - one can't do anything new in art because it's all been done. This thinking has a single fundamental error :

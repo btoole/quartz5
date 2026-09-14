@@ -1,11 +1,14 @@
 ---
 publish: true
 created: 2026-08-02
-modified: 2026-08-30T22:51:03.118Z
+modified:
 published: 2026-08-30T22:51:03.118Z
 tags:
   - type/note
   - topic/taichi
+pdf: false
+dg-publish: true
+qt-publish: true
 ---
 
  "One Crown, Three Voids" (\*Itchō Sankū )

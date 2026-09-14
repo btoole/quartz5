@@ -6,6 +6,9 @@ published: 2026-08-22T02:36:56.279Z
 tags:
   - topic/artist
   - topic/art
+related to: []
+dg-publish: true
+qt-publish: true
 ---
 
 The greatest American sculptor of the 19th century. It is the same sublime of fear and terror as that evoked by Albert Bierstadt in his paintings of the American West.

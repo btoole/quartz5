@@ -2,13 +2,15 @@
 publish: true
 description: Hellenistic philosophy - Ajñāna scepticism - Buddhism
 created: 2026-08-11
-modified: 2026-08-22T02:33:23.351Z
+modified:
 published: 2026-08-22T02:33:23.351Z
 tags:
   - type/note
   - topic/classics
   - topic/classics/Buddhism
   - topic/classics/Indo-Greek
+dg-publish: true
+qt-publish: true
 ---
 
 **Diogenes**\

@@ -5,6 +5,9 @@ modified: 2026-08-22T02:37:05.202Z
 published: 2026-08-22T02:37:05.202Z
 tags:
   - topic/theory
+related to: []
+dg-publish: true
+qt-publish: true
 ---
 
 In art there is first form then emptiness. In life there is first emptiness then form.

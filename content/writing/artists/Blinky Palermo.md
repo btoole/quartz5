@@ -6,6 +6,9 @@ published: 2026-08-22T02:31:48.114Z
 tags:
   - topic/artist
   - topic/art
+related to: []
+dg-publish: true
+qt-publish: true
 ---
 
 To the People of New York City :

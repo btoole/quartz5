@@ -6,6 +6,9 @@ published: 2026-08-22T02:31:12.700Z
 tags:
   - topic/artist
   - topic/art
+related to: []
+dg-publish: true
+qt-publish: true
 ---
 
 The Alma-Tadema of today.

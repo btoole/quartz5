@@ -5,6 +5,11 @@ modified: 2026-08-22T02:33:00.121Z
 published: 2026-08-22T02:33:00.121Z
 tags:
   - topic/theory
+related to:
+  - "[[files/math-physics/Grothendieck|Grothendieck]]"
+description:
+dg-publish: true
+qt-publish: true
 ---
 
 If you look at the map of the US it’s for the most part a box with clearly defined boundaries on all four sides. Canada is also a box but with only three sides, the top boundary line essentially does not exist. This is not a liability. Once understood it allows for great clarity of thought. It ultimately avoids the inherent claustrophobia of a completely four sided model. The Mediterranean Sea functioned in the same way to form thinking in the early archaic culture of the Greek islands in the Aegean.

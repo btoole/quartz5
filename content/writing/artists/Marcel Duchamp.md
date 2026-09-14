@@ -6,6 +6,9 @@ published: 2026-08-22T02:35:09.874Z
 tags:
   - topic/artist
   - topic/art
+related to: []
+dg-publish: true
+qt-publish: true
 ---
 
 Apparently after hearing of Duchamp’s death Picasso is said to have remarked that “He was wrong.”

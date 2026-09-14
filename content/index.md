@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: "true"
 title: index
 created: 2026-08-10
 modified: 2026-08-11
@@ -7,7 +7,9 @@ published: 2026-09-12T03:17:41.017Z
 tags:
   - publish
   - qt
-  - gardenEntry
+dg-publish: true
+dg-home: true
+qt-publish: true
 ---
 
 notes

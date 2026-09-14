@@ -6,6 +6,9 @@ published: 2026-08-22T02:32:27.439Z
 tags:
   - topic/artist
   - topic/art
+related to: []
+dg-publish: true
+qt-publish: true
 ---
 
 The greatest American sculptor of the 20th century.

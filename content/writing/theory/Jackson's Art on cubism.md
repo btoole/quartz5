@@ -6,6 +6,8 @@ modified: 2026-08-22T02:34:15.833Z
 published: 2026-08-22T02:34:15.833Z
 tags:
   - topic/theory
+dg-publish: true
+qt-publish: true
 ---
 
 There are a number of inaccuracies in this narrative. I will name but a few as they come to mind and be as succinct as possible.

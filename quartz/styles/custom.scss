@@ -56,12 +56,13 @@ p:has(video) {
   border-radius: 999px;
   padding: 0.15rem 0.6rem;
   margin: 0 0.35rem 0.35rem 0;
-  font-size: 0.45rem;
+  font-size: 0.85rem;
   text-decoration: none;
 }
 
 .tag-link:hover {
   background-color: #bfdbfe;
+  color: #1d4ed8;
 }
 
 // Lighter title weight, closer to site A
@@ -72,43 +73,12 @@ p:has(video) {
 // Sidebar background and link colors, matching site A
 .left.sidebar {
   background-color: #ffffff;
-}
-
-.left.sidebar a {
-  color: #2563eb;
-}
-
-.left.sidebar a:hover {
-  color: #1d4ed8;
+  font-size: 1rem;
 }
 
 .page-title a {
-  color: #bbccfa;
+  color: #2563eb;
   font-weight: 700;
-}
-
-a.tag-link {
-  background-color: #dbeafe !important;
-  color: #bbccfa !important;
-  border: none !important;
-}
-
-a.tag-link:hover {
-  background-color: #bfdbfe !important;
-  color: #1d4ed8 !important;
-}
-
-.folder-button,
-.folder-title {
-  color: #7fa4f5 !important;
-}
-
-.explorer a {
-  color: #2563eb !important;
-}
-
-.explorer a:hover {
-  color: #1d4ed8 !important;
 }
 
 .explorer a,
@@ -125,9 +95,5 @@ a.tag-link:hover {
 }
 
 .center {
-  font-size: 1.0rem; // adjust up/down as you like (1rem = default)
-}
-
-.left.sidebar {
-  font-size: 0.15rem;
+  font-size: 1rem;
 }
